@@ -33,7 +33,8 @@ Como **Tech Lead**, fui responsável por:
 
 ## 📸 Preview
 
-![Preview do Projeto](preview-image.png) <!-- Substituir com imagem do projeto se desejar -->
+![Animação](https://github.com/user-attachments/assets/7abbe238-2e4b-4ed8-b4e6-1b023d6cea53)
+ <!-- Substituir com imagem do projeto se desejar -->
 
 ## 🚀 Como Executar
 
